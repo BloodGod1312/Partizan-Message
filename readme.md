@@ -49,4 +49,4 @@ git clone https://github.com/BloodGod1312/Partizan-Message.git
 cd Partizan-Message
 
 # 3. Устанавливаем зависимости
-pip install cryptography psutil
+pip install cryptography psutil (если не работает, то python -m pip install cryptography psutil)
