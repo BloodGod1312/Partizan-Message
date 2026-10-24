@@ -5,6 +5,7 @@
 ![Логотип](https://img.shields.io/badge/secure-AES--256--GCM-brightgreen)
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
+[![Donate](https://img.shields.io/badge/Donate-DonationAlerts-ff69b4?style=for-the-badge&logo=ko-fi)](https://www.donationalerts.com/r/mr_fill_bg)
 
 ## ✨ Возможности
 
