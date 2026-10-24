@@ -31,8 +31,22 @@
 
 ## 📋 Требования
 
-- Python 3.8+
+- [Python 3.8+](https://www.python.org/downloads/) (при установке отметьте галочку **Add Python to PATH**)
 - [Radmin VPN](https://www.radmin-vpn.com/) (для связи между компьютерами)
-- Библиотеки:
-  ```bash
-  python -m pip install cryptography psutil
+- [Git](https://git-scm.com/downloads) (для установки через `git clone`)
+
+## 📥 Установка через git clone
+
+### Вариант 1: Клонирование через Git (рекомендуется)
+
+Откройте терминал (Git Bash, PowerShell или командную строку) и выполните:
+
+```bash
+# 1. Клонируем репозиторий
+git clone https://github.com/BloodGod1312/Partizan-Message.git
+
+# 2. Переходим в папку проекта
+cd Partizan-Message
+
+# 3. Устанавливаем зависимости
+pip install cryptography psutil
