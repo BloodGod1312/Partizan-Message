@@ -6,6 +6,7 @@
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 [![Donate](https://img.shields.io/badge/Donate-DonationAlerts-ff69b4?style=for-the-badge&logo=ko-fi)](https://www.donationalerts.com/r/mr_fill_bg)
+[![Donate СПБ (карта на фейк личность, для вас все безопасно)](https://img.shields.io/badge/Donate-%D0%A1%D0%91%D0%9F%20(%D0%A2--%D0%91%D0%B0%D0%BD%D0%BA)-yellow?style=for-the-badge&logo=rocket)](https://www.tbank-online.com/rm/r_dQaIEQXyTf.pCUYvZhzfP/LKH5O15481)
 
 ## ✨ Возможности
 
